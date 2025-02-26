@@ -1,6 +1,6 @@
 <?php
 
-namespace nguyenthanhthuc2000\SayHello;
+namespace Say;
 
 class SayHello
 {
