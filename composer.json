@@ -1,11 +1,11 @@
 {
-    "name": "wake/hello-world",
+    "name": "nguyenthanhthuc2000/hello-world",
     "description": "Hello world composer package",
     "type": "php",
     "license": "aaa",
     "authors": [
         {
-            "name": "wake",
+            "name": "nguyenthanhthuc2000",
             "email": "nguyenthanhthuc.2k@gmail.com"
         }
     ],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wake\\SayHello\\": "src/"
+            "nguyenthanhthuc2000\\SayHello\\": "src/"
         }
     }
 }
